@@ -1,0 +1,5 @@
+F:\Project\Pocker_2_Card_Challenge\PockerBusinessLogic\bin\Debug\PockerBusinessLogic.dll
+F:\Project\Pocker_2_Card_Challenge\PockerBusinessLogic\bin\Debug\PockerBusinessLogic.pdb
+F:\Project\Pocker_2_Card_Challenge\PockerBusinessLogic\obj\Debug\PockerBusinessLogic.csprojResolveAssemblyReference.cache
+F:\Project\Pocker_2_Card_Challenge\PockerBusinessLogic\obj\Debug\PockerBusinessLogic.dll
+F:\Project\Pocker_2_Card_Challenge\PockerBusinessLogic\obj\Debug\PockerBusinessLogic.pdb

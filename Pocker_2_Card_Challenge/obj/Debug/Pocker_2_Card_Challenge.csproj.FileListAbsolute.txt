@@ -1,0 +1,11 @@
+F:\Project\Pocker_2_Card_Challenge\Pocker_2_Card_Challenge\bin\Debug\Pocker_2_Card_Challenge.exe.config
+F:\Project\Pocker_2_Card_Challenge\Pocker_2_Card_Challenge\bin\Debug\Pocker_2_Card_Challenge.exe
+F:\Project\Pocker_2_Card_Challenge\Pocker_2_Card_Challenge\bin\Debug\Pocker_2_Card_Challenge.pdb
+F:\Project\Pocker_2_Card_Challenge\Pocker_2_Card_Challenge\bin\Debug\PockerBusinessLogic.dll
+F:\Project\Pocker_2_Card_Challenge\Pocker_2_Card_Challenge\bin\Debug\PockerBusinessLogic.pdb
+F:\Project\Pocker_2_Card_Challenge\Pocker_2_Card_Challenge\obj\Debug\Pocker_2_Card_Challenge.csprojResolveAssemblyReference.cache
+F:\Project\Pocker_2_Card_Challenge\Pocker_2_Card_Challenge\obj\Debug\Pocker_2_Card_Challenge.exe
+F:\Project\Pocker_2_Card_Challenge\Pocker_2_Card_Challenge\obj\Debug\Pocker_2_Card_Challenge.pdb
+J:\Project\Pocker_2_Card_Challenge\Pocker_2_Card_Challenge\bin\Debug\Pocker_2_Card_Challenge.exe.config
+J:\Project\Pocker_2_Card_Challenge\Pocker_2_Card_Challenge\obj\Debug\Pocker_2_Card_Challenge.exe
+J:\Project\Pocker_2_Card_Challenge\Pocker_2_Card_Challenge\obj\Debug\Pocker_2_Card_Challenge.pdb
